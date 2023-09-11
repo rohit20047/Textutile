@@ -33,7 +33,7 @@ To get started with Textutile on your local machine, follow these steps:
 1. **Clone the Repository**: Start by cloning this repository to your local system using the following command:
 
    ```
-   git clone <repository_url>
+   git clone <https://github.com/rohit20047/Textutile>
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the necessary dependencies by running:
